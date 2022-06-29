@@ -1,5 +1,4 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/108358005/176448485-e83c0eea-8401-4393-a680-f3d1cb10a39f.gif)
-
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/108358005/176448972-66cbccbb-8dc2-495f-a3e8-904dddf16db7.gif)
 - 👋 Hi, I’m @fadtareomkar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
