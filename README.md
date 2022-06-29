@@ -6,6 +6,10 @@
       <p style="text-align:center;"></p>
    </body>
 </html>
+
+---
+
+### :fire: My Stats :
   
 - 👋 Hi, I’m @fadtareomkar
 - 👀 I’m interested in ...
