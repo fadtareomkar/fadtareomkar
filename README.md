@@ -1,5 +1,5 @@
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/108358005/176448972-66cbccbb-8dc2-495f-a3e8-904dddf16db7.gif)
-# Hi there, I'm Omkar 👋
+# Hello world..!! , I'm Omkar 👋
 - 👋 Hi, I’m @fadtareomkar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
